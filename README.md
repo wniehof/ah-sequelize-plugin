@@ -1,4 +1,5 @@
 # ah-sequelize-plugin
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/wniehof/ah-sequelize-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This pluggin will use the sequelize orm to create `api.models` which contain your sequelize models
 
